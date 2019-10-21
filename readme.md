@@ -13,4 +13,5 @@ This repository shows machine learning algorithm code using Python and Numpy.
 	
 	* how to implement KNN algorithm using only numpy.
 	* apply to MNIST dataset and calculate accuracy.
+	* Also you can see how to use sklearn library and apply it to MNIST dataset.
 
